@@ -1,0 +1,7 @@
+* title
+** h1
+	*bold*
+	/italic/
+	_underline_
+	=code=
+	+del+
